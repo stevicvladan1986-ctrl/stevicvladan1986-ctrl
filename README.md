@@ -1,4 +1,4 @@
-![Banner](Background_02.png)
+![Banner](Background_02_Small.png)
 ## 🚀 What I do
 
 - Build practical IT tools
